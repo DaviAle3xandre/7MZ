@@ -1,0 +1,42 @@
+@font-face {
+    font-family: America ;
+    src: url(American\ Captain.ttf);
+
+}
+body{
+    background: linear-gradient(45deg, #4a8843, #fc591f,#12425a);
+
+
+}
+#titulo{
+    font-family:'America' , Arial, Helvetica, sans-serif,
+    sans-serif;
+}
+
+main{
+    text-align: center;
+    margin: 40px;
+    background-color: rgba(173, 115, 115, 0.473);
+    padding: 20px;
+    border-top: 50px;
+}
+
+img{
+width: 750px;
+height: 550px;
+}
+
+.subtitulos{
+    text-align: left;
+}
+
+
+#mz{
+    position: relative;
+    left: 480.5px;
+background-color: rgba(212, 194, 170, 0.301);
+width: 800px;
+height: 130px;
+border-style:solid;
+border-color: black;
+}
